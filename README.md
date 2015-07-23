@@ -34,7 +34,7 @@ Subscribe users to a list:
 $iterable->list_subscribe( $list_id, array(
 	array( 'email' => 'john@example.com' ),
 	array( 'email' => 'harry@example.com' )
-);
+) );
 ```
 
 Unsubscribe users from a list:
